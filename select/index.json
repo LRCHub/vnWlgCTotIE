@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Antes de Morirme（feat. ROSALÍA）",
+  "base_artist": "C. Tangana",
+  "createdAt": "2026-03-18T09:20:16.473296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C.Tangana",
+      "has_synced": true,
+      "path": "select/01_Antes_de_Morirme_(feat._ROSALÍA)_C.Tangana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana",
+      "has_synced": true,
+      "path": "select/02_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Antes de Morirme  (feat. ROSALÍA)",
+      "artist": "C.Tangana",
+      "has_synced": true,
+      "path": "select/03_Antes_de_Morirme_(feat._ROSALÍA)_C.Tangana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C. Tangana - Antes de morirme feat. Rosalía (Video Oficial)",
+      "artist": "AgzTv",
+      "has_synced": true,
+      "path": "select/04_C._Tangana_-_Antes_de_morirme_feat._Rosalía_(Video_Oficial)_AgzTv.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana",
+      "has_synced": true,
+      "path": "select/05_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana, ROSALÍA",
+      "has_synced": true,
+      "path": "select/06_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana,_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana/ROSALÍA",
+      "has_synced": true,
+      "path": "select/07_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana feat. Rosalía",
+      "has_synced": true,
+      "path": "select/08_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana_feat._Rosalía.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C. Tangana - Antes de morirme feat. Rosalía (Video Oficial)",
+      "artist": "C. Tangana",
+      "has_synced": true,
+      "path": "select/09_C._Tangana_-_Antes_de_morirme_feat._Rosalía_(Video_Oficial)_C._Tangana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Antes de Morirme (feat. ROSALÍA)",
+      "artist": "C. Tangana feat. Rosalía",
+      "has_synced": true,
+      "path": "select/10_Antes_de_Morirme_(feat._ROSALÍA)_C._Tangana_feat._Rosalía.lrc"
+    }
+  ]
+}
